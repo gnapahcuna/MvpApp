@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="title_home">Weather</string>
+    <string name="title_dashboard">Forecast</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="text_city_name">City Name</string>
+    <string name="text_seach">Search</string>
+
+    <string name="text_temp">Temperater</string>
+    <string name="text_humid">Humidity</string>
+
+    <string name="text_celsius">C</string>
+    <string name="text_fahrenheit">F</string>
+    <string name="text_wind_unit">m/s</string>
+    <string name="text_cloud_unit">%</string>
+    <string name="text_humid_unit">%</string>
+
+    <string name="text_weather">Weather</string>
+    <string name="text_clouds">Clouds</string>
+    <string name="text_wind">Wind</string>
+</resources>
